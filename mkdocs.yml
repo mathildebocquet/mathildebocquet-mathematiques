@@ -1,0 +1,29 @@
+site_name: "Florent MICHEL"
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    # Mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+
+    # Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+  features:
+    - navigation.tabs           # Active la barre de menu en haut
+    - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
+nav:
+  - Accueil: index.md
+  - Seconde:
+    - Suites récurrentes: seconde/suites_recurrentes.md
+  - Galois:
+    - Introduction: galois/introduction.md
