@@ -27,6 +27,9 @@ nav:
       - MPSI: colles/mpsi.md
       - MP*: colles/mp.md
   - Cours et TD MPSI: cours.md
+  - Ressources:
+      - Sites amis: ressources/siteamis.md
+      - Ressources pour les préparationnaires: ressources/pourprepa.md
   - Motivation: motivation.md
   
   
