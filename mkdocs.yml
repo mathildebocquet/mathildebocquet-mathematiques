@@ -22,3 +22,6 @@ theme:
     - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
   - Accueil: index.md
+  - Colles: 
+      - MPSI: colles/mpsi.md
+      - MP*: colles/mp.md
