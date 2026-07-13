@@ -1,0 +1,3 @@
+Voici quelques leçons préparées au cours de l'année. Je conseille de préparer l'ensemble des leçons (ce que j'ai fait), mais je ne mets ici que celles que j'ai rédigées au propre. Je précise les leçons que j'ai préparés devant la classe, en oral blanc ou en oral.
+
+à venir...
